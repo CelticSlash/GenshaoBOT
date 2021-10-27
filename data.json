@@ -1,0 +1,24 @@
+{
+    "genshin" : [
+        {
+            "boneco" : "Venti",
+            "mensagem" : "Gerson desce mais uma",
+            "foto" : "https://pbs.twimg.com/media/E8HxfCsWUAMvHHr.jpg"
+        },
+        {
+            "boneco" : "Hu Tao",
+            "mensagem" : "Já imaginou seu corpinho enterrado num caixão? :3",
+            "foto" : "https://pbs.twimg.com/profile_images/1367420116900737029/1VidA0i0_400x400.jpg"
+        },
+        {
+            "boneco" : "Fischl",
+            "mensagem" : ":Ozputo:: Amy está na terapia, posso ajudar em algo?",
+            "foto" : "https://upload-os-bbs.mihoyo.com/upload/2021/01/11/23066526/eb5c01ad4f7af6c852e3396e5f0ed877_5246134927355569460.png?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,png"
+        },
+        {
+            "boneco" : "Shilton",
+            "mensagem" : "CADÊ MEU CRÍTICO PORRA?",
+            "foto" : "https://preview.redd.it/bw3ir9gwjip61.png?auto=webp&s=105a14320fe88318a6e00c19c1f7714ee0844da1"
+        }
+    ]
+}
